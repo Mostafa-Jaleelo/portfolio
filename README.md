@@ -9,6 +9,13 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-jaleelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-jaleelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/mostafa_jaleelo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -23,18 +30,43 @@
 
 ###
 
+<p align="center">👨‍💻 Programming Languages</p>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-jaleelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-jaleelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=xd" height="45" alt="xd logo"  />
 </div>
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611fcyipem1vz0oc2cafaoeyq2a1q2stdh563ylh9y8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<br clear="both">
+
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611fcyipem1vz0oc2cafaoeyq2a1q2stdh563ylh9y8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<p align="center">🛠️ Tools and IDEs</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
