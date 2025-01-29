@@ -2,18 +2,15 @@
   <img height="200" src="https://i.pinimg.com/736x/50/24/a2/5024a2d50f3c524c8b41d661076cd213.jpg"  />
 </div>
 
-###
 
 <h3 align="center">My name is Mostafa Abduljaleel Ahmed and I'm a Computer Science and Artificial Intelligence student at Cairo University, from Cairo, Egypt.</h3>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafa-jaleelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-jaleelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.instagram.com/mostafa_jaleelo/" target="_blank">
@@ -28,11 +25,9 @@
   </a>
 </div>
 
-###
 
 <p align="center">👨‍💻 Programming Languages</p>
 
-###
 
 <br clear="both">
 
@@ -48,7 +43,6 @@
   <img src="https://skillicons.dev/icons?i=xd" height="45" alt="xd logo"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -56,13 +50,11 @@
   <img height="180" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611fcyipem1vz0oc2cafaoeyq2a1q2stdh563ylh9y8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
 
 <br clear="both">
 
 <p align="center">🛠️ Tools and IDEs</p>
 
-###
 
 <br clear="both">
 
@@ -78,16 +70,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mostafa-jaleelo/mostafa-jaleelo/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mostafa-jaleelo/count.svg?"  />
 </div>
 
-###
+
